@@ -4,3 +4,9 @@ git config --global user.email anagiovanni66@gmail.com
 
 Criar um projeto react nature com expo
 npx create-expo-app SilvinhaHealthApp
+
+Executar o projeto 
+npx expo start --localhost --android
+
+Restaurar projeto após clonar
+npm i
