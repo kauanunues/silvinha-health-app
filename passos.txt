@@ -1,6 +1,6 @@
 Configuração da conta local do GIT:
-git config --global user.name anagiovanni
-git config --global user.email anagiovanni66@gmail.com
+git config --global user.name  Kauanunes
+git config --global user.email marykakinho@gmail.com
 
 Criar um projeto react nature com expo
 npx create-expo-app SilvinhaHealthApp
